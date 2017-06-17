@@ -1,0 +1,9 @@
+D:\WPF\WpfApp\DAL\bin\Debug\DAL.dll
+D:\WPF\WpfApp\DAL\bin\Debug\DAL.pdb
+D:\WPF\WpfApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\WPF\WpfApp\DAL\obj\Debug\DAL.dll
+D:\WPF\WpfApp\DAL\obj\Debug\DAL.pdb
+D:\sasha\WPF\DAL\bin\Debug\DAL.dll
+D:\sasha\WPF\DAL\bin\Debug\DAL.pdb
+D:\sasha\WPF\DAL\obj\Debug\DAL.dll
+D:\sasha\WPF\DAL\obj\Debug\DAL.pdb

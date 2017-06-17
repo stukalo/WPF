@@ -1,0 +1,5 @@
+D:\sasha\WPF\API\bin\Debug\API.dll
+D:\sasha\WPF\API\bin\Debug\API.pdb
+D:\sasha\WPF\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\sasha\WPF\API\obj\Debug\API.dll
+D:\sasha\WPF\API\obj\Debug\API.pdb
